@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John Woodworth</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to John Woodworth's Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About John Woodworth</h2>
+        <p>John Woodworth is a visionary entrepreneur with a passion for innovation and making a positive impact on society. With years of experience in various industries, John has established himself as a leader in technology, business, and philanthropy.</p>
+    </section>
+
+    <section id="services">
+        <h2>Services Offered</h2>
+        <ul>
+            <li>Consulting Services:
+                <ul>
+                    <li>Business Strategy</li>
+                    <li>Technology Implementation</li>
+                    <li>Innovation Management</li>
+                </ul>
+            </li>
+            <li>Speaking Engagements:
+                <ul>
+                    <li>Keynote Addresses</li>
+                    <li>Seminars and Workshops</li>
+                    <li>Panel Discussions</li>
+                </ul>
+            </li>
+            <li>Philanthropic Initiatives:
+                <ul>
+                    <li>Community Development</li>
+                    <li>Education Support</li>
+                    <li>Environmental Conservation</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact John Woodworth</h2>
+        <p>For inquiries, collaborations, or speaking engagements, please contact us at <a href="mailto:info@johnwoodworth.com">info@johnwoodworth.com</a> or fill out the form below:</p>
+        <!-- You can add a contact form here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 John Woodworth. All rights reserved.</p>
+    </footer>
+</body>
+</html>
